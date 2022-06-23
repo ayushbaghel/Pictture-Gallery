@@ -1,0 +1,12 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\jars\\WebCam\\bridj-0.6.2.jar",
+        "c:\\jars\\WebCam\\slf4j-api-1.7.2.jar",
+        "c:\\jars\\WebCam\\swing-layout-1.0.2.jar",
+        "c:\\jars\\WebCam\\webcam-capture-0.3.10.jar",
+        "c:\\jars\\WebCam\\webcam-capture-0.3.12.jar"
+    ]
+}
